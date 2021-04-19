@@ -37,10 +37,10 @@ Tutors and Communication
  reach out to us via email:
 
   - Philipp M. Scholl <pscholl@tf.uni-freiburg.de>
+
   - Philipp Wirthgen <philipp.wirthgen@frexit.de>
 
- TODO we will also communicate via BBB, discord or matrix
- TODO every project needs to register on the github organization for the project1
+ We will primarly communicate via matrix on [#ubilab-ss2121](https://matrix.to/#/!HeDXxdkLeePmWuNGYW:matrix.org?via=matrix.org).
 
 Teaching Plan
 -------------
