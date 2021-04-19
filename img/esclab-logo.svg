@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.311054mm"
+   height="40.311054mm"
+   viewBox="0 0 40.311054 40.311055"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="esclab-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="11.190391"
+     inkscape:cy="78.922182"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3452"
+     inkscape:window-height="2138"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.31473,-118.13988)">
+    <circle
+       style="opacity:0.9965;fill:#ececec;stroke-width:2"
+       id="path25"
+       cx="37.470257"
+       cy="138.29541"
+       r="20.155527" />
+    <g
+       aria-label="E"
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2662px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.9965;fill:#000080;stroke-width:8.01246">
+      <path
+         d="m 26.646136,127.77574 h 13.028952 v 2.34632 H 29.434111 v 6.54283 h 13.544553 l 3.26e-4,-4.00048 6.091738,5.1735 v 0 l -6.091738,5.1735 -3.26e-4,-4.00021 H 29.434111 v 7.0244 h 10.48941 v 2.34631 H 26.646136 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:8.01246"
+         id="path14"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.9965;fill:#000080;stroke-width:2"
+       x="40.480389"
+       y="149.95268"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="40.480389"
+         y="149.95268"
+         style="stroke-width:2">ab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.828146px;opacity:0.9965;fill:#000080;stroke-width:2"
+       x="40.926697"
+       y="130.10342"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="40.926697"
+         y="130.10342"
+         style="stroke-width:2">sc</tspan></text>
+  </g>
+</svg>
