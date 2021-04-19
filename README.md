@@ -20,8 +20,7 @@ Escape Room - Lab Course SS2021
 Teaching Goals
 --------------
 
- The participants learn…
-
+ The participants learn…\
  … to implement complex human-computer interaction\
  … to utilize networked embedded systems\
  … to integrate sensors into novel application\
