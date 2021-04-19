@@ -48,44 +48,27 @@ Teaching Plan
 
  We will hold 14 session. The first four ones are on the basics of escape room game design, and on ubiquituous computing. Afterwards you will be put into groups and have time to select and refine puzzle ideas. We will discuss in the group and figure out how to merge them in the overall flow of the game. The remaining session will be on basic micro-controller programming and using git. After that we weill host weekly trial runs of the puzzle with more and more refined mock-ups. This will allow everyone to stay up-to-date with the latest developments and assures that there will be a final game with working puzzles.
 
-+--------+----------------------------------------+------------------------+
-| date   | you learn …                            | actions/deliverables   |
-+========+========================================+========================+
-| 22.03. | … to define an escape roon             | intro-slides, groups   |
-|        |                                        |                        |
-|        | … to define ubiquitous computing       |                        |
-+--------+----------------------------------------+------------------------+
-| 29.03. | … design a basic escape room           | wirthgen's slides,     |
-|        |                                        | escape room story,     |
-|        |                                        | group and puzzle match |
-+--------+----------------------------------------+------------------------+
-| 06.05. | … present and plan (A/B/C) a puzzle    | group discussion       |
-+--------+----------------------------------------+------------------------+
-| 13.05. | … present and plan (A/B/C) a puzzle    | group discussion       |
-|        |                                        | bill-of-materials      |
-+--------+----------------------------------------+------------------------+
-| 20.05. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 27.05. | … learn to use git                     | update respective      |
-|        |                                        | puzzle repositories    |
-|        | … run a basic micro-controller program |                        |
-+--------+----------------------------------------+------------------------+
-| 03.06. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 10.06. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 17.06. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 24.06. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 01.07. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 08.07. | … participate in a co-design study     | puzzle mock-up         |
-+--------+----------------------------------------+------------------------+
-| 15.07. | … present a final prototype            | finalized puzzle       |
-+--------+----------------------------------------+------------------------+
-| 22.07. | … present a final prototype            | finalized puzzle       |
-+--------+----------------------------------------+------------------------+
+|  date    |  you learn …                             |  actions/deliverables    |
+| -------- | ---------------------------------------- | ------------------------ |
+|  22.03.  | … to define an escape roon               | intro-slides, groups     |
+|          | … to define ubiquitous computing         |                          |
+|  29.03.  |  … design a basic escape room            |  wirthgen's slides,      |
+|          |                                          |  escape room story,      |
+|          |                                          |  group and puzzle match  |
+|  06.05.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
+|  13.05.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
+|          |                                          |  bill-of-materials       |
+|  20.05.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  27.05.  |  … learn to use git                      |  update respective       |
+|          |  … run a basic micro-controller program  |                          |
+|  03.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  10.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  17.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  24.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  01.07.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  08.07.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  15.07.  |  … present a final prototype             |  finalized puzzle        |
+|  22.07.  |  … present a final prototype             |  finalized puzzle        |
 
 
 Previous Courses

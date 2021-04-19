@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="esclab-logo.svg">
+   sodipodi:docname="esclab-logo.svg"
+   inkscape:export-filename="/home/phil/edu/esclab [WS2021]/img/esclab-logo.png"
+   inkscape:export-xdpi="299.92767"
+   inkscape:export-ydpi="299.92767">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -38,7 +41,8 @@
      inkscape:window-height="2138"
      inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -61,11 +65,15 @@
        id="path25"
        cx="37.470257"
        cy="138.29541"
-       r="20.155527" />
+       r="20.155527"
+       inkscape:export-xdpi="299.92767"
+       inkscape:export-ydpi="299.92767" />
     <g
        aria-label="E"
        id="text12"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2662px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.9965;fill:#000080;stroke-width:8.01246">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2662px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.9965;fill:#000080;stroke-width:8.01246"
+       inkscape:export-xdpi="299.92767"
+       inkscape:export-ydpi="299.92767">
       <path
          d="m 26.646136,127.77574 h 13.028952 v 2.34632 H 29.434111 v 6.54283 h 13.544553 l 3.26e-4,-4.00048 6.091738,5.1735 v 0 l -6.091738,5.1735 -3.26e-4,-4.00021 H 29.434111 v 7.0244 h 10.48941 v 2.34631 H 26.646136 Z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:8.01246"
@@ -77,7 +85,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.9965;fill:#000080;stroke-width:2"
        x="40.480389"
        y="149.95268"
-       id="text19"><tspan
+       id="text19"
+       inkscape:export-xdpi="299.92767"
+       inkscape:export-ydpi="299.92767"><tspan
          sodipodi:role="line"
          id="tspan17"
          x="40.480389"
@@ -88,7 +98,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.828146px;opacity:0.9965;fill:#000080;stroke-width:2"
        x="40.926697"
        y="130.10342"
-       id="text23"><tspan
+       id="text23"
+       inkscape:export-xdpi="299.92767"
+       inkscape:export-ydpi="299.92767"><tspan
          sodipodi:role="line"
          id="tspan21"
          x="40.926697"
