@@ -60,14 +60,14 @@ Teaching Plan
 |  20.05.  |  … participate in a co-design study      |  puzzle mock-up          |
 |  27.05.  |  … learn to use git                      |  update respective       |
 |          |  … run a basic micro-controller program  |                          |
-|  03.06.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  10.06.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  17.06.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  24.06.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  01.07.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  08.07.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  15.07.  |  … present a final prototype             |  finalized puzzle        |
-|  22.07.  |  … present a final prototype             |  finalized puzzle        |
+|  04.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  11.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  18.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  25.06.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  02.07.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  09.07.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  16.07.  |  … present a final prototype             |  finalized puzzle        |
+|  23.07.  |  … present a final prototype             |  finalized puzzle        |
 
 
 Previous Courses
