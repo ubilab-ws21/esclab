@@ -36,8 +36,8 @@ Tutors and Communication
 
  reach out to us via email:
 
+  - Benjamin Völker <voelkerb@tf.uni-freiburg.de>
   - Philipp M. Scholl <pscholl@tf.uni-freiburg.de>
-
   - Philipp Wirthgen <philipp.wirthgen@frexit.de>
 
  We will primarly communicate via matrix on [#ubilab-ss2121](https://matrix.to/#/!HeDXxdkLeePmWuNGYW:matrix.org?via=matrix.org).
