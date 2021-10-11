@@ -1,9 +1,3 @@
----
-title: Escape Room Lab
-subtitle: Lab Course WS21
-bibliography: bib.bib
-...
-
  > Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke
 
 In this lab course you will extend the (fully automated) on-campus Area-079 escape room. The escape room is a game where a team of players are locked in the room and has to solve puzzles to escape the room during a limited timeframe. In this course we will extend the already existing room and implement a different game. New puzzels can be added, old ones replaced or modified as long as the existing game can still be played. This will be done in cooperation with Frexit, the Freiburg Exit Game Company.
@@ -77,4 +71,6 @@ Previous Courses
 Literature
 ----------
 
-see the bib.bib file in the repository.
+[1]: Nicholson, Scott. 2015. “Peeking Behing the Locked Door: A Survey of Escape Facilities.” In. http://scottnicholson.com/pubs/erfacwhite.pdf.
+[2]: Ross, Robert, and Soula Bennett. 2020. “Increasing Engagement with Engineering Escape Rooms.” IEEE Transactions on Games, 1–1. https://doi.org/10.1109/tg.2020.3025003.
+[3]: Shakeri, Hanieh, Samarth Singhal, Rui Pan, Carman Neustaedter, and Anthony Tang. 2017. “Escaping Together.” In Proceedings of the Annual Symposium on Computer-Human Interaction in Play. ACM. https://doi.org/10.1145/3116595.3116601.
