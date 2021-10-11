@@ -71,6 +71,8 @@ Previous Courses
 Literature
 ----------
 
-[1]: Nicholson, Scott. 2015. “Peeking Behing the Locked Door: A Survey of Escape Facilities.” In. http://scottnicholson.com/pubs/erfacwhite.pdf.\
-[2]: Ross, Robert, and Soula Bennett. 2020. “Increasing Engagement with Engineering Escape Rooms.” IEEE Transactions on Games, 1–1. https://doi.org/10.1109/tg.2020.3025003.\
+[1]: Nicholson, Scott. 2015. “Peeking Behing the Locked Door: A Survey of Escape Facilities.” In. http://scottnicholson.com/pubs/erfacwhite.pdf.
+
+[2]: Ross, Robert, and Soula Bennett. 2020. “Increasing Engagement with Engineering Escape Rooms.” IEEE Transactions on Games, 1–1. https://doi.org/10.1109/tg.2020.3025003.
+
 [3]: Shakeri, Hanieh, Samarth Singhal, Rui Pan, Carman Neustaedter, and Anthony Tang. 2017. “Escaping Together.” In Proceedings of the Annual Symposium on Computer-Human Interaction in Play. ACM. https://doi.org/10.1145/3116595.3116601.
