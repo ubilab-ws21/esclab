@@ -19,7 +19,7 @@ You will learn to …\
 Participants and Prerequisites
 ------------------------------
 
-This lab course is open for all study programs of the technical faculty at the university of Freiburg. Electronic prototyping and programming skills are required. We will base our work around the [ESP32](https://www.espressif.com/en/products/socs) chip. The lab course is worth 6 ECTS, and is roughly equivalent to 120-180 working hours, i.e. 8-12 work hours per week. The course is limited to a maximum of 20 participants, and this term to groups of three people.
+This lab course is open for all study programs of the technical faculty at the university of Freiburg. Electronic prototyping and programming skills are required. We will base our work around the [ESP32](https://www.espressif.com/en/products/socs) or [ESP8266](https://www.espressif.com/en/products/socs) chips. The lab course is worth 6 ECTS, and is roughly equivalent to 120-180 working hours, i.e. 8-12 work hours per week. The course is limited to a maximum of 20 participants, and this term to groups of three people.
 
 Tutors and Communication
 ------------------------
