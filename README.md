@@ -63,6 +63,7 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 
 The course will take place in Building 051, Room 00..022 for the first few weeks. Please make sure to bring your 3G verification to *every* gathering, we will check those and you will need to check-in via hisinone.
 
+Shopping will be organized on [Octopart](https://octopart.com/bom-tool/vgLk3tTk)
 
 Previous Courses
 ----------------
