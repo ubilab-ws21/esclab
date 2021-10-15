@@ -25,6 +25,7 @@ Tutors and Communication
 ------------------------
 
   - Benjamin Völker <voelkerb@tf.uni-freiburg.de>
+  - Sebastian Böttcher <sebastian.boettcher@uniklinik-freiburg.de>
   - Philipp M. Scholl <pscholl@tf.uni-freiburg.de>
   - Philipp Wirthgen <philipp.wirthgen@frexit.de>
 
