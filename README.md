@@ -38,10 +38,9 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 
 |  date    |  you learn to …                          |  actions/deliverables    |
 | -------- | ---------------------------------------- | ------------------------ |
-|  21.10.  |  … to define an escape room              |  [intro-slides](https://docs.google.com/presentation/d/1jjyVC2sLokL1SUN653jQ4DIv-srID5qCLBVQCVNfI2Q/edit?usp=sharing), groups    |
-|          |  … to define ubiquitous computing        |                          |
-|  28.10.  |  … design a basic escape room            |  Wirthgen's intro,       |
-|          |                                          |  escape room story,      |
+|  21.10.  |  … to define ubiquitous computing        |  [intro-slides](https://docs.google.com/presentation/d/1jjyVC2sLokL1SUN653jQ4DIv-srID5qCLBVQCVNfI2Q/edit?usp=sharing), groups    |
+|          |  … to define an escape room              |  Wirthgen's intro        |
+|  28.10.  |  … design a basic escape room            |  escape room story       |
 |          |                                          |  group and puzzle match  |
 |  04.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
 |  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
@@ -51,7 +50,6 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 |          |  … run a basic micro-controller program  |                          |
 |  02.12.  |  … participate in a co-design            |  puzzle mock-up          |
 |          |  … exchange message with MQTT            |                          |
-|  02.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  09.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  16.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  13.01.  |  … participate in co-design              |  puzzle mock-up          |
