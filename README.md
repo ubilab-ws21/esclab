@@ -24,9 +24,9 @@ This lab course is open for all study programs of the technical faculty at the u
 Tutors and Communication
 ------------------------
 
-  - Benjamin Völker <voelkerb@tf.uni-freiburg.de>
+  - Benjamin Völker <voelkerb@informatik.uni-freiburg.de>
   - Sebastian Böttcher <sebastian.boettcher@uniklinik-freiburg.de>
-  - Philipp M. Scholl <pscholl@tf.uni-freiburg.de>
+  - Philipp M. Scholl <pscholl@informatik.uni-freiburg.de>
   - Philipp Wirthgen <philipp.wirthgen@frexit.de>
 
  We will primarly communicate via matrix on [#ubilab-ws2122](https://matrix.to/#/!rXoDoNQWIEsVwdSBRN:matrix.org?via=matrix.org).
