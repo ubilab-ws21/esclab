@@ -38,18 +38,13 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 
 |  date    |  you learn to …                          |  actions/deliverables    |
 | -------- | ---------------------------------------- | ------------------------ |
-|  21.10.  |  … to define ubiquitous computing        |  [intro-slides](https://docs.google.com/presentation/d/1jjyVC2sLokL1SUN653jQ4DIv-srID5qCLBVQCVNfI2Q/edit?usp=sharing), groups    |
-|          |  … to define an escape room              |  Wirthgen's intro        |
-|  28.10.  |  … design a basic escape room            |  escape room story       |
-|          |                                          |  group and puzzle match  |
+|  21.10.  |  … to define ubiquitous computing<br>… to define an escape room     |  [intro-slides](https://docs.google.com/presentation/d/1jjyVC2sLokL1SUN653jQ4DIv-srID5qCLBVQCVNfI2Q/edit?usp=sharing), groups,<br>Wirthgen's intro |
+|  28.10.  |  … design a basic escape room            |  escape room story,<br>group and puzzle match |
 |  04.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
-|  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
-|          |                                          |  bill-of-materials       |
+|  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion,<br>bill-of-materials   |
 |  18.11.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  25.11.  |  … learn to use git                      |  update respective       |
-|          |  … run a basic micro-controller program  |                          |
-|  02.12.  |  … participate in a co-design            |  puzzle mock-up          |
-|          |  … exchange message with MQTT            |                          |
+|  25.11.  |  … learn to use git <br> … run a basic micro-controller program |  update respective |
+|  02.12.  |  … participate in a co-design <br> … exchange message with MQTT |  puzzle mock-up    |
 |  09.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  16.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  13.01.  |  … participate in co-design              |  puzzle mock-up          |
