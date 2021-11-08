@@ -42,9 +42,9 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 |  28.10.  |  … design a basic escape room            |  escape room story,<br>group and puzzle match |
 |  04.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
 |  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion,<br>bill-of-materials   |
-|  18.11.  |  … participate in a co-design study      |  puzzle mock-up          |
-|  25.11.  |  … learn to use git <br> … run a basic micro-controller program |  update respective |
-|  02.12.  |  … participate in a co-design <br> … exchange message with MQTT |  puzzle mock-up    |
+|  18.11.  |  … learn to use git <br> … run a basic micro-controller program <br> … exchange message with MQTT |  update respective |
+|  25.11.  |  … participate in a co-design study      |  puzzle mock-up          |
+|  02.12.  |  … participate in a co-design            |  puzzle mock-up    |
 |  09.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  16.12.  |  … participate in co-design              |  puzzle mock-up          |
 |  13.01.  |  … participate in co-design              |  puzzle mock-up          |
