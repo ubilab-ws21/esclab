@@ -41,8 +41,7 @@ We will hold 14 session, every thursday 16:00 - 17:00. The first two to three on
 |  21.10.  |  … to define ubiquitous computing<br>… to define an escape room     |  [intro-slides](https://docs.google.com/presentation/d/1jjyVC2sLokL1SUN653jQ4DIv-srID5qCLBVQCVNfI2Q/edit?usp=sharing), groups,<br>Wirthgen's intro |
 |  28.10.  |  … design a basic escape room            |  escape room story,<br>group and puzzle match |
 |  04.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion        |
-|  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion,<br>bill-of-materials   |
-|          |                                          | [story board](https://draft.io/utfb8me9395n5pvev8p6yngpqkp67a8rceq3q6ccyxz2) |
+|  11.11.  |  … present and plan (A/B/C) a puzzle     |  group discussion,<br>bill-of-materials<br>[story board](https://draft.io/utfb8me9395n5pvev8p6yngpqkp67a8rceq3q6ccyxz2) |
 |  18.11.  |  … learn to use git <br> … run a basic micro-controller program <br> … exchange message with MQTT |  update respective |
 |  25.11.  |  … participate in a co-design study      |  puzzle mock-up          |
 |  02.12.  |  … participate in a co-design            |  puzzle mock-up    |
